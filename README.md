@@ -51,3 +51,8 @@ src/main/java/com/boram/account/
 ├── api/                    # REST 컨트롤러
 └── config/                 # 설정 (Security 등)
 ```
+
+## 학습 회고 (devlog)
+
+매일의 학습·구현·트러블슈팅 기록은 [`docs/devlog/`](docs/devlog) 참고.
+관점 3가지: **오늘 한 것 / 막힌 것·해결 / 내일 할 것**
